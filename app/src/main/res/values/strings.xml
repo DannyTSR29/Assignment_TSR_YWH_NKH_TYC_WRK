@@ -8,4 +8,6 @@
     <string name="button_login">Login</string>
     <string name="button_register">Register</string>
     <string name="text_email">Email Address</string>
+    <string name="button_log_out">Log Out</string>
+    <string name="text_register_here">Register Here</string>
 </resources>
